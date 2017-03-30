@@ -12,7 +12,10 @@
         "10ea2b3a-6de4-4dc0-8691-520951c56f58",
         "51f8490c-9759-493c-aef2-f28b50e4fed0",
         "363bb60e-b84d-4bb5-84cc-e68516f085ec",
-        "e6cf5911-1770-4f39-a90f-7f15dd528d81"
+        "e6cf5911-1770-4f39-a90f-7f15dd528d81",
+        "235ad2b4-2d29-4b22-8c81-1b0492fe4ed2",
+        "e7bde586-f8f9-4def-aeba-1adf3d07f53d",
+        "9774f96b-bd7a-40e3-b05f-21d36f36593c"
     ],
     "filterType": "GMSprite",
     "folderName": "Tile Sprites",
