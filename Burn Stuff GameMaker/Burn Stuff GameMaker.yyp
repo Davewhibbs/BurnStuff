@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "1d2ae9e5-b9ff-4a14-a88e-c774d8047e17",
+            "Value": {
+                "id": "ebe7529e-3b1c-4d55-8c21-7c291940e585",
+                "resourcePath": "sprites\\spr_bullet\\spr_bullet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1de7c19a-c9da-4a97-9a82-774a4aeaf988",
             "Value": {
                 "id": "bfab7f27-dcb7-46b7-b6c8-33f228cada82",
@@ -239,6 +247,14 @@
             }
         },
         {
+            "Key": "8f0fcaad-1ac0-4a89-9c60-0c4a30618912",
+            "Value": {
+                "id": "a14eccda-0c15-4515-9850-babe42fba0d9",
+                "resourcePath": "objects\\obj_flying_enemy\\obj_flying_enemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "92995039-d42e-4fdc-8a6a-3047034911b5",
             "Value": {
                 "id": "f322d2a2-f11e-42b8-ac4a-76cab1afb66c",
@@ -295,11 +311,11 @@
             }
         },
         {
-            "Key": "ac1c874c-c187-4b52-bb37-b912812bcf8f",
+            "Key": "b2443cfa-e097-4cdd-8949-b08d4682245b",
             "Value": {
-                "id": "a09e8d10-f1d3-4e3e-ab4b-919d93c50f2d",
-                "resourcePath": "sprites\\spr_platform\\spr_platform.yy",
-                "resourceType": "GMSprite"
+                "id": "8555ce9a-92cb-4316-8709-9c8f1e34b038",
+                "resourcePath": "objects\\obj_bullet\\obj_bullet.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -375,6 +391,14 @@
             }
         },
         {
+            "Key": "dd535b91-0215-4031-be9d-b794d886cb4c",
+            "Value": {
+                "id": "88c2a707-2db4-4d3c-8a45-be10a47a8d41",
+                "resourcePath": "sprites\\spr_flying_gluck\\spr_flying_gluck.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e14e3beb-9118-45be-8713-f57180b6f3ca",
             "Value": {
                 "id": "69b3095e-ee7d-402d-a967-ffc7bdf7b423",
@@ -403,14 +427,6 @@
             "Value": {
                 "id": "696c5b26-5963-44ff-9e13-e9ee1c75e501",
                 "resourcePath": "sprites\\spr_checkpoint\\spr_checkpoint.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "f8171dee-f843-46d5-b3c8-ca68441edf4e",
-            "Value": {
-                "id": "01e64bef-ab44-4d44-9747-f36b4f4efe85",
-                "resourcePath": "sprites\\spr_heart\\spr_heart.yy",
                 "resourceType": "GMSprite"
             }
         },
