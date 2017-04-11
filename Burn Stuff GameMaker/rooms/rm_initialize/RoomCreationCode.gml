@@ -14,3 +14,14 @@ global.checkpointy = 0;		// ypos
 room_goto_next();
 }
 
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 5EDD81DD
+/// @DnDArgument : "soundid" "snd_music"
+/// @DnDArgument : "loop" "1"
+/// @DnDSaveInfo : "soundid" "db49792f-8976-4c3c-8071-e0c86699367a"
+
+{
+	audio_play_sound(snd_music, 0, 1);
+}
+
